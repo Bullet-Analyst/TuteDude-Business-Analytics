@@ -86,8 +86,7 @@ The top section highlights 5 crucial metrics to instantly understand our audienc
 * **Avg Discount Given:** The average percentage of discount offered to students.
 * **T. Marketing Channels:** Total number of distinct acquisition sources used.
 
-> **📸 ![Insert Screenshot Here](Audience KPI Cards.png)
-> *(Yahan apne dashboard ke upar wale 5 KPI cards ka ek lamba screenshot lagayein)*
+> ![KPI cards Screenshot](audience-kpi-cards.png)
 
 #### 2. Demographics & Marketing Charts
 The visualizations track both audience behavior and marketing profitability using 5 key charts:
