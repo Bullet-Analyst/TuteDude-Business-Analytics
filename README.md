@@ -80,31 +80,28 @@ This section focuses on understanding our student demographics and evaluating th
 
 #### 1. Top KPI Cards (Audience Overview)
 The top section highlights 5 crucial metrics to instantly understand our audience size and marketing efforts:
-* **Average Student Age:** Average age of the students (currently 27.43).
-* **Total Enrolled Students:** Total number of enrollments.
-* **Total States Reached:** Distinct count of states where TuteDude has reach.
-* **Avg Discount Given:** The average percentage of discount offered to students.
-* **T. Marketing Channels:** Total number of distinct acquisition sources used.
+- **Average Student Age:** Average age of the students (currently 27.43).
+- **Total Enrolled Students:** Total number of enrollments.
+- **Total States Reached:** Distinct count of states where TuteDude has reach.
+- **Avg Discount Given:** The average percentage of discount offered to students.
+- **T. Marketing Channels:** Total number of distinct acquisition sources used.
 
-> ![KPI cards Screenshot](audience-kpi-cards.png)
+![Audience KPI Cards](Audience%20KPI%20Cards.png)
 
 #### 2. Demographics & Marketing Charts
 The visualizations track both audience behavior and marketing profitability using 5 key charts:
 
-* **Marketing Trend Over Time (Area Chart):** Tracks the growth of enrollments over time (from 2021 to 2026) to identify enrollment spikes.
-* **Target Age Group Distribution (Column Chart):** Displays student distribution across different age groups, showing which specific ages bring the most students.
-* **Device Usage (Donut Chart):** Breaks down the primary devices used by students (Desktop, Tablet, Laptop, Mobile).
-* **Revenue by Marketing Channel (Column Chart):** Highlights which 'Acquisition Source' brings the highest revenue.
-* **Top State (Bar Chart):** Ranks the top states based on total student enrollments.
+- **Marketing Trend Over Time (Area Chart):** Tracks the growth of enrollments over time (from 2021 to 2026) to identify enrollment spikes.
+- **Target Age Group Distribution (Column Chart):** Displays student distribution across different age groups, showing which specific ages bring the most students.
+- **Device Usage (Donut Chart):** Breaks down the primary devices used by students (Desktop, Tablet, Laptop, Mobile).
+- **Revenue by Marketing Channel (Column Chart):** Highlights which 'Acquisition Source' brings the highest revenue.
+- **Top State (Bar Chart):** Ranks the top states based on total student enrollments.
 
-> **📸 [Insert Screenshot Here: Audience & Marketing Charts]** 
-> *(Yahan apne 5 charts wale middle aur bottom hisse ka screenshot lagayein)*
+![Audience & Marketing Charts](Audience%20&%20Marketing%20Charts.png)
 
 ---
 
 ### 🚀 Final Audience Dashboard View
 Below is the complete view of the "Audience & Marketing Analytics" page:
 
-> **📸 [Insert Screenshot Here: Full Audience Dashboard]** 
-> *(Yahan apne is poore dashboard page ki final picture lagayein)*
-
+![Full Audience Dashboard](Full%20Audience%20Dashboard.png)
