@@ -22,7 +22,8 @@ To provide an at-a-glance view of the business health, the top section of the da
 * **Total Students:** Calculated using the `Total Students` measure.
 * **AVG Profit Margin:** Calculated using the Average of `Profit Margin (%)`.
 
-> ** ** 
+![KPIs Image](KPIs%20image.png)
+
 ### 2. Main Charts & Visualizations
 The middle and lower sections of the dashboard contain specific visualizations to answer our business questions:
 
@@ -46,7 +47,8 @@ The middle and lower sections of the dashboard contain specific visualizations t
   * **Axes:** X-axis = `discount`, Y-axis = `Total Students`
   * **Insights:** Tracks the trend of enrollments against the discount percentage offered to analyze if higher discounts drive more traffic.
 
-> **📸  ** 
+![charts images](charts_image.png)
+
 ### 3. Professional UI/UX Formatting
 To give the dashboard a premium, corporate look, the following design principles were applied:
 * **Color Theme:** A clean White/Light Gray background to make the Purple brand colors pop.
@@ -58,12 +60,13 @@ To give the dashboard a premium, corporate look, the following design principles
 ## 🚀 Final Dashboard View
 Below is the complete view of the final TuteDude Revenue & Sales Dashboard:
 
-> **📸  ** 
+![Full Dashboard](Full_dashboard.png)
+
 ---
 **Tools Used:** Power BI, Power Query (for Data Cleaning), DAX
 
 
-----------------*********************************----------------------------------------
+# SECOND DASHBOARD - AUDIENCE & MARKETIN
 
 ## 📈 Audience & Marketing Analytics Dashboard
 
