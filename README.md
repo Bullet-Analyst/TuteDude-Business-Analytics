@@ -94,7 +94,7 @@ The top section highlights 5 crucial metrics to instantly understand our audienc
 #### 2. Demographics & Marketing Charts
 The visualizations track both audience behavior and marketing profitability using 5 key charts:
 
-- **Marketing Trend Over Time (Area Chart):** Tracks the growth of enrollments over time (from 2021 to 2026) to identify enrollment spikes.
+- **Marketing Trend Over Time (Line Chart):** Tracks the growth of enrollments over time (from 2021 to 2026) to identify enrollment spikes.
 - **Target Age Group Distribution (Column Chart):** Displays student distribution across different age groups, showing which specific ages bring the most students.
 - **Device Usage (Donut Chart):** Breaks down the primary devices used by students (Desktop, Tablet, Laptop, Mobile).
 - **Revenue by Marketing Channel (Column Chart):** Highlights which 'Acquisition Source' brings the highest revenue.
